@@ -1,0 +1,22 @@
+{
+  "user": {
+    "user_id": 4,
+    "first_name": "Zhanna",
+    "last_name": "Safaryan",
+    "age": 48,
+    "gender": "Female",
+    "phone": "099954044",
+    "email": "zhannasafaryan@gmail.com",
+    "location": "Armenia",
+    "picture_link": "",
+    "password": "KPD20221212ZS820",
+    "clinic_name": "10XSupport",
+    "status": true,
+    "procedures_limit": false,
+    "procedures_max_count": 20000,
+    "procedures_count": 57,
+    "created_at": "2022-12-12T06:25:44.857761",
+    "client_id": 4,
+    "verified": 0
+  }
+}
