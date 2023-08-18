@@ -1,3 +1,5 @@
+com.de-panther.webxr@0.17.0
+com.de-panther.webxr-interactions@0.17.0
 com.unity.ai.navigation@1.1.4
 com.unity.collab-proxy@2.0.5
 com.unity.connect.share@4.2.3
